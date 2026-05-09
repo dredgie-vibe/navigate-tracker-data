@@ -9,7 +9,7 @@
     { "week": 3,  "starting": "2026-04-20", "registrations": 18 },
     { "week": 4,  "starting": "2026-04-27", "registrations": 9  },
     { "week": 5,  "starting": "2026-05-04", "registrations": 16 },
-    { "week": 6,  "starting": "2026-05-11", "registrations": 1 },
+    { "week": 6,  "starting": "2026-05-11", "registrations": null },
     { "week": 7,  "starting": "2026-05-18", "registrations": null },
     { "week": 8,  "starting": "2026-05-25", "registrations": null },
     { "week": 9,  "starting": "2026-06-01", "registrations": null },
