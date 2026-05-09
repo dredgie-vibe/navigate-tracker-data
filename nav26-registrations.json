@@ -1,0 +1,31 @@
+{
+  "event": "Navigate 26",
+  "lastUpdated": "2026-05-09",
+  "scope": "Includes partners; excludes Alianza attendees",
+  "notes": "Edit the 'registrations' number for each week as new data arrives.",
+  "weeks": [
+    { "week": 1,  "starting": "2026-04-06", "registrations": 15 },
+    { "week": 2,  "starting": "2026-04-13", "registrations": 6  },
+    { "week": 3,  "starting": "2026-04-20", "registrations": 18 },
+    { "week": 4,  "starting": "2026-04-27", "registrations": 9  },
+    { "week": 5,  "starting": "2026-05-04", "registrations": 16 },
+    { "week": 6,  "starting": "2026-05-11", "registrations": 1 },
+    { "week": 7,  "starting": "2026-05-18", "registrations": null },
+    { "week": 8,  "starting": "2026-05-25", "registrations": null },
+    { "week": 9,  "starting": "2026-06-01", "registrations": null },
+    { "week": 10, "starting": "2026-06-08", "registrations": null },
+    { "week": 11, "starting": "2026-06-15", "registrations": null },
+    { "week": 12, "starting": "2026-06-22", "registrations": null },
+    { "week": 13, "starting": "2026-06-29", "registrations": null },
+    { "week": 14, "starting": "2026-07-06", "registrations": null },
+    { "week": 15, "starting": "2026-07-13", "registrations": null },
+    { "week": 16, "starting": "2026-07-20", "registrations": null },
+    { "week": 17, "starting": "2026-07-27", "registrations": null },
+    { "week": 18, "starting": "2026-08-03", "registrations": null },
+    { "week": 19, "starting": "2026-08-10", "registrations": null },
+    { "week": 20, "starting": "2026-08-17", "registrations": null },
+    { "week": 21, "starting": "2026-08-24", "registrations": null },
+    { "week": 22, "starting": "2026-08-31", "registrations": null },
+    { "week": 23, "starting": "2026-09-07", "registrations": null }
+  ]
+}
