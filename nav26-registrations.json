@@ -4,9 +4,9 @@
   "scope": "Includes partners; excludes Alianza attendees",
   "notes": "Edit the 'registrations' number for each week as new data arrives.",
   "weeks": [
-    { "week": 1,  "starting": "2026-04-06", "registrations": 15 },
+    { "week": 1,  "starting": "2026-04-06", "registrations": 14 },
     { "week": 2,  "starting": "2026-04-13", "registrations": 6  },
-    { "week": 3,  "starting": "2026-04-20", "registrations": 18 },
+    { "week": 3,  "starting": "2026-04-20", "registrations": 17 },
     { "week": 4,  "starting": "2026-04-27", "registrations": 9  },
     { "week": 5,  "starting": "2026-05-04", "registrations": 16 },
     { "week": 6,  "starting": "2026-05-11", "registrations": 5 },
