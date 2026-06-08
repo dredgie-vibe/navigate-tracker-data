@@ -1,6 +1,6 @@
 {
   "event": "Navigate 26",
-  "lastUpdated": "2026-06-05",
+  "lastUpdated": "2026-06-07",
   "scope": "Includes partners; excludes Alianza attendees",
   "notes": "Edit the 'registrations' number for each week as new data arrives.",
   "weeks": [
@@ -12,12 +12,12 @@
     {
       "week": 2,
       "starting": "2026-04-13",
-      "registrations": 6
+      "registrations": 7
     },
     {
       "week": 3,
       "starting": "2026-04-20",
-      "registrations": 16
+      "registrations": 15
     },
     {
       "week": 4,
