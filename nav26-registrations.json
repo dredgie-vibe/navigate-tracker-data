@@ -52,12 +52,12 @@
     {
       "week": 10,
       "starting": "2026-06-08",
-      "registrations": 0
+      "registrations": null
     },
     {
       "week": 11,
       "starting": "2026-06-15",
-      "registrations": 4
+      "registrations": null
     },
     {
       "week": 12,
