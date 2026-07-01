@@ -7,7 +7,7 @@
     {
       "week": 1,
       "starting": "2026-04-06",
-      "registrations": 13
+      "registrations": 14
     },
     {
       "week": 2,
@@ -57,17 +57,17 @@
     {
       "week": 11,
       "starting": "2026-06-15",
-      "registrations": 4
+      "registrations": null
     },
     {
       "week": 12,
       "starting": "2026-06-22",
-      "registrations": 4
+      "registrations": null
     },
     {
       "week": 13,
       "starting": "2026-06-29",
-      "registrations": 2
+      "registrations": null
     },
     {
       "week": 14,
